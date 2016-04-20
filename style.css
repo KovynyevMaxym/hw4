@@ -9,18 +9,21 @@ div.news-block1 {
     float: left;
     height: 100%;
     width: 33%;
+    min-width: 100px;
 }
 div.news-block2 {
     background-color: green; 
     float: left;
     height:100%;
     width: 33%;
+    min-width: 100px;
 }
 div.news-block3 {
     background-color: red; 
     float: left;
     height: 100%;
     width: 33%;
+    min-width: 100px;
 }
 
 //*overflow: hidden;
